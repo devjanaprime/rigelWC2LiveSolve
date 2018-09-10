@@ -1,6 +1,8 @@
 Weekend Challenge 2 Live Solve
 ===
 
+[video](https://vimeo.com/289136193)
+
 Base Mode
 ---
 
